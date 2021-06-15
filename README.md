@@ -10,3 +10,5 @@ It automatically starts the next plot as soon as the Phase 1 is done.
 3) Start the Plotinator and select the chia version.
 
 Have fun!
+
+![Start](https://user-images.githubusercontent.com/73139495/99398518-d2d8a500-28e4-11eb-8025-ce2c3b70249f.jpg)
