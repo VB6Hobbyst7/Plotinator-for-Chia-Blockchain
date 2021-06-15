@@ -11,4 +11,4 @@ It automatically starts the next plot as soon as the Phase 1 is done.
 
 Have fun!
 
-![Start](https://user-images.githubusercontent.com/73139495/99398518-d2d8a500-28e4-11eb-8025-ce2c3b70249f.jpg)
+![Start](https://user-images.githubusercontent.com/73139495/122052867-70964300-cde6-11eb-8069-8d984b0de7fe.jpg)
