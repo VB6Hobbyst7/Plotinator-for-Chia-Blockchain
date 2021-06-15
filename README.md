@@ -1,2 +1,12 @@
 # Plotinator-for-Chia-Blockchain
-The Plotinator was designed for Windows 10. It automatically starts the next plot as soon as the Phase 1 is done. 
+
+The Plotinator was designed for Windows 10. 
+It automatically starts the next plot as soon as the Phase 1 is done. 
+
+# Plotinator
+
+1) Install the chia blockchain on your computer. Start chia and create a wallet. 
+2) Then you can leave Chia. The chain does not necessarily have to be syncronized.
+3) Start the Plotinator and select the chia version.
+
+Have fun!
